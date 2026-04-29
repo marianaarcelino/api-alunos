@@ -2,21 +2,23 @@
 
 Projeto simples desenvolvido com Node.js e Express para listar alunos.
 
-## 🚀 Como executar
+## Como executar
 
 ```bash
 npm install
 node App.js
 ```
 
-## 📡 Endpoint
+## Endpoint
 
 GET http://localhost:3000/api/alunos/
 
 Retorna a lista de alunos em JSON.
 
-## 📁 Estrutura
 
+## 📁 Estrutura do Projeto
+
+```
 .
 ├── App.js
 ├── models
@@ -30,3 +32,4 @@ Retorna a lista de alunos em JSON.
 │   └── AlunoRouter.js
 └── services
     └── AlunoService.js
+```
