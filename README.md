@@ -1,4 +1,4 @@
-# 📚 API de Alunos
+# 📚 API de Alunos - Node.js + Express
 
 Projeto simples desenvolvido com Node.js e Express para listar alunos.
 
