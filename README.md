@@ -17,9 +17,16 @@ Retorna a lista de alunos em JSON.
 
 ## 📁 Estrutura
 
-* models
-* repositories
-* services
-* routers
-
-
+.
+├── App.js
+├── models
+│   └── AlunoModel.js
+├── package-lock.json
+├── package.json
+├── README.md
+├── repositories
+│   └── AlunoRepository.js
+├── routers
+│   └── AlunoRouter.js
+└── services
+    └── AlunoService.js
